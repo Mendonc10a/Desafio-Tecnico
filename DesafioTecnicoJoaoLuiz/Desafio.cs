@@ -64,7 +64,7 @@ namespace SimuladorBatalha
             else if (poderFinal2 > poderFinal1)
                 Console.WriteLine(n2);
             else
-                Console.WriteLine("Empate!!");
+                Console.WriteLine("Empate!!!");
         }
     }
 }
